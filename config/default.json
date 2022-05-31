@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://thenotebookshop:notebooks5284@cluster0.bprow.mongodb.net/caffeine-era?retryWrites=true&w=majority",
+    "jwtSecret": "coffee_secret"
+}
