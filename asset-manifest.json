@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MernLiveWebsite/static/css/main.03e95206.chunk.css",
+    "main.js": "/MernLiveWebsite/static/js/main.58bb97b1.chunk.js",
+    "main.js.map": "/MernLiveWebsite/static/js/main.58bb97b1.chunk.js.map",
+    "runtime-main.js": "/MernLiveWebsite/static/js/runtime-main.6ba7a4a9.js",
+    "runtime-main.js.map": "/MernLiveWebsite/static/js/runtime-main.6ba7a4a9.js.map",
+    "static/js/2.9fee3379.chunk.js": "/MernLiveWebsite/static/js/2.9fee3379.chunk.js",
+    "static/js/2.9fee3379.chunk.js.map": "/MernLiveWebsite/static/js/2.9fee3379.chunk.js.map",
+    "index.html": "/MernLiveWebsite/index.html",
+    "precache-manifest.b7f5bd3694bf38e5fb8e732f997b8638.js": "/MernLiveWebsite/precache-manifest.b7f5bd3694bf38e5fb8e732f997b8638.js",
+    "service-worker.js": "/MernLiveWebsite/service-worker.js",
+    "static/css/main.03e95206.chunk.css.map": "/MernLiveWebsite/static/css/main.03e95206.chunk.css.map",
+    "static/js/2.9fee3379.chunk.js.LICENSE.txt": "/MernLiveWebsite/static/js/2.9fee3379.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ba7a4a9.js",
+    "static/js/2.9fee3379.chunk.js",
+    "static/css/main.03e95206.chunk.css",
+    "static/js/main.58bb97b1.chunk.js"
+  ]
+}
