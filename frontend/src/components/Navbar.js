@@ -18,7 +18,7 @@ class Navbar extends Component {
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <a className="navbar-brand" href="/Shop">
-          Coffee Shop
+          Caffeine Era
         </a>
         <button
           className="navbar-toggler"
